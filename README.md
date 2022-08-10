@@ -1,7 +1,5 @@
 # Hi 👋 !
-<p align="center">
-  <img src="assets/header.png">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tranvannghia021">
@@ -36,19 +34,23 @@
     <img src="https://komarev.com/ghpvc/?username=tranvannghia021">
 	</a><a href="https://github.com/tranvannghia021"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
+<br>
 
-#### I'm [Nghĩa](https://github.com/tranvannghia021), currently working as a Web Developer in Hồ Chí Minh City, Vietnam.
+### <img src="https://raw.githubusercontent.com/nguyenary/nguyenary/master/images/stats.gif" width="30px" height="30px"> ***About Me***
+
+- I am a third-year undergraduate student at <b>SGU-University of Science</b>, majoring in <b>Information Technology</b>.
+- I am currently learning <b>ReactJS :atom_symbol:</b> and <b>NodeJS  </b>.
+- :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
+- :envelope:: tranvannghia021@gmail.com
+
+<br>
 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranvannghia021&theme=monokai)
 	
-<a href="https://github.com/tranvannghia021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tranvannghia021&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=14B8A6&bg_color=1F2937" alt="ExpDev07's GitHub Stats"/>
-</a>
-<a href="https://github.com/tranvannghia021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvannghia021&hide=html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=1F2937" alt="ExpDev07's GitHub Stats"/>
-</a>
+
+
   <br/>
     <a href="https://github.com/tranvannghia021"><img alt="Trần Văn Nghĩa" src="https://github-readme-stats.vercel.app/api?username=tranvannghia021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href=""><img alt="Trần Văn Nghĩa" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvannghia021&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
