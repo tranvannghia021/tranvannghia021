@@ -19,9 +19,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122?style=flat&logo=mysql&color=white&logoColor=blue)
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C&color=blue&logoColor=white)
-### 🛠 Learning
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+### 🛠 Learning
+![VueJS](https://img.shields.io/badge/vue.js-6DA55F?style=&logo=vue.js&color=white)
 
 
 ### 🌐️ Reach me at
