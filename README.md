@@ -22,7 +22,7 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C&color=blue&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ### 🛠 Learning
-![VueJS](https://img.shields.io/badge/vue.js-6DA55F?style=&logo=vue.js&color=white)
+![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=&logo=react&color=white)
 
 
 ### 🌐️ Reach me at
