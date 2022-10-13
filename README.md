@@ -21,8 +21,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122?style=flat&logo=mongodb&color=blue&logoColor=green)
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C&color=blue&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-### 🛠 Learning
 ![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=&logo=react&color=white)
+### 🛠 Learning
 
 
 ### 🌐️ Reach me at
@@ -39,8 +39,7 @@
 
 ### <img src="https://raw.githubusercontent.com/nguyenary/nguyenary/master/images/stats.gif" width="30px" height="30px"> ***About Me***
 
-- I am a third-year undergraduate student at <b>SGU-University of Science</b>, majoring in <b>Information Technology</b>.
-- I am currently learning <b>ReactJS :atom_symbol:</b> and <b>NodeJS  </b>.
+- I am a developer working at the company FireGroup technology.
 - :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
 - :envelope:: tranvannghia021@gmail.com
 
