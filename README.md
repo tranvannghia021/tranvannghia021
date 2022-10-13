@@ -18,6 +18,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122?style=flat&logo=mysql&color=white&logoColor=blue)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-05122?style=flat&logo=PostgreSQL&color=informational&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122?style=flat&logo=mongodb&color=blue&logoColor=green)
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C&color=blue&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
