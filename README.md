@@ -23,6 +23,7 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=C&color=blue&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=&logo=react&color=white)
+![go-gin] (https://img.shields.io/badge/go-gin-6DA55F?style=&logo=go&color=white)
 ### 🛠 Learning
 ### 🛠 My Project
 [laravel-vuejs] -[https://tranvannghia021-fuzzy-waddle-w4pjq5gvr64f96g9-8080.preview.app.github.dev - https://marketingemail.netlify.app ]
