@@ -24,7 +24,35 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=&logo=react&color=white)
 ![go-gin](https://img.shields.io/badge/go-gin-6DA55F?style=&logo=go&color=white)
+### 🛠 My Project 
+1) SHOPBALO <br>
+(BE_go-gin api publish) https://github.com/tranvannghia021/go-gin-shopbalo-api-publish-client  <br>
+(BE_laravel api private)https://github.com/tranvannghia021/BE_EC_Laravel-shopbalo  <br>
+(FE_reactJs) https://github.com/tranvannghia021/FE_EC_ReactJs-shopbalo  <br>
+2) EMAIL MARKETING <br>
+(BE_laravel) https://github.com/tranvannghia021/laravel-email-marketing-BE 	 <br>
+(FE_vueJS) https://github.com/tranvannghia021/Vuejs-email-marketing-FE  <br>
 
+3) SHOPIFY <br>
+https://github.com/tranvannghia021/laravel_shopify  <br>
+https://github.com/tranvannghia021/comands_Schedule <br>
+https://github.com/tranvannghia021/laravel_app_module <br>
+
+4) CRAWL DATA <br>
+https://github.com/tranvannghia021/laravel_crawldata  <br>
+
+5) SOCIAL-AUTH <br>
+https://github.com/tranvannghia021/social_auth  <br>
+
+6) CRUD VIDEO <br>
+(nodejs-handlebars) https://github.com/tranvannghia021/nodejs  <br>
+
+7) COMMON <br>
+(docker) https://github.com/tranvannghia021/docker  <br>
+(repo-design-pattern) https://github.com/tranvannghia021/repository-design-pattern  <br>
+
+8) SHOPSHOES <br>
+(HTML,JS,CSS) https://github.com/tranvannghia021/FE-BASIC-ONE-PAGE  <br>
 
 ### 🌐️ Reach me at
 
