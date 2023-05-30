@@ -54,6 +54,9 @@ https://github.com/tranvannghia021/social_auth  <br>
 8) SHOPSHOES <br>
 (HTML,JS,CSS) https://github.com/tranvannghia021/FE-BASIC-ONE-PAGE  <br>
 
+8) PACKAGE <br>
+(laravel) https://github.com/tranvannghia021/core  <br>
+
 ### 🌐️ Reach me at
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/TVNnghia/)
