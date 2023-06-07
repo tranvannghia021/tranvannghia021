@@ -57,7 +57,6 @@
 
 ### <img src="https://raw.githubusercontent.com/nguyenary/nguyenary/master/images/stats.gif" width="30px" height="30px"> ***About Me***
 
-- I am a developer.
 - :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
 - :envelope:: tranvannghia021@gmail.com
 
