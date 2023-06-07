@@ -26,7 +26,7 @@
 ![go-gin](https://img.shields.io/badge/go-gin-6DA55F?style=&logo=go&color=white)
 ### 🛠 My Project 
 <ul>
-	<li><a href="https://github.com/tranvannghia021/go-gin-shopbalo-api-publish-client"></a>SHOPBALO(BE_go-gin api publish)</li>
+	<li><a href="https://github.com/tranvannghia021/go-gin-shopbalo-api-publish-client">SHOPBALO(BE_go-gin api publish)</a></li>
 	<li><a href="https://github.com/tranvannghia021/BE_EC_Laravel-shopbalo"></a>SHOPBALO(BE_laravel api private)</li>
 	<li><a href="https://github.com/tranvannghia021/FE_EC_ReactJs-shopbalo"></a>SHOPBALO(FE_reactJs)</li>
 	<li><a href="https://github.com/tranvannghia021/laravel-email-marketing-BE"></a>EMAIL MARKETING(BE_laravel)</li>
