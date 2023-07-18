@@ -40,6 +40,7 @@
 	<li><a href="https://github.com/tranvannghia021/FE-BASIC-ONE-PAGE">Shopshoes(HTML,JS,CSS)</a></li>
 	<li><a href="https://github.com/tranvannghia021/core">Package(core_laravel)</a></li>
 	<li><a href="https://github.com/tranvannghia021/gocore">Package(core golang)</a></li>
+	<li><a href="https://github.com/tranvannghia021/core-lumen">Package(core lumen)</a></li>
 	<li><a href="https://github.com/tranvannghia021/docker-compose">Docker-compose</a></li>
 </ul>
 
